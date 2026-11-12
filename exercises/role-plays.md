@@ -39,8 +39,15 @@ Push a little, but stay kind. Stop as soon as the person hangs up, and cheer.
 
 **What we want to hear:** "I love you. I'm going to call you right back on your phone," or asking for the family code word. Then hang up and call the grandchild, or another family member, on the number they already have.
 
-**Debrief:** this one works on love, not fear for ourselves. Secrecy ("don't tell Mom") is the biggest tell. Voices can be faked from short clips online. A family code word, agreed in person, settles it in seconds; see [family code word](family-code-word.md).
+**Debrief:** this one works on love for someone else. Secrecy ("don't tell Mom") is the biggest tell. Voices can be faked from short clips online. A family code word, agreed in person, settles it in seconds. See [family code word](family-code-word.md).
 
 ## Making your own
 
-Use a scam your group has really seen. Write three lines: the opening, the request, and the push. Keep the goal the same: hang up, look up, call back.
+Use a scam your group has seen. Write three lines: the opening, the request, and the push. Keep the goal the same: hang up, look up, call back.
+
+## Sources
+
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
+- [Don't open your door to grandparent scams](https://consumer.ftc.gov/consumer-alerts/2021/04/dont-open-your-door-grandparent-scams), from the FTC: scammers sending someone to the door to collect cash for "bail."

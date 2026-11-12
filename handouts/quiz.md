@@ -3,7 +3,7 @@ title: Before-and-after quiz
 description: "Six quick questions to give before and after a session, to see what changed. No names needed."
 ---
 
-Give the same quiz at the start and the end. Collect the papers without names, then compare how many people got each question right. The point is to see what the session changed, not to grade anyone.
+Give the same quiz at the start and the end. Collect the papers without names, then compare how many people got each question right. The point is to see what the session changed. Nobody is graded.
 
 **1. Which of these is a sign of a scam? Circle all that apply.**
 a) Being asked to act within the hour
@@ -31,6 +31,11 @@ c) Signs you in twice as fast
 **6. If you lost money to a scam, who would you call first?**
 a) The number in the scammer's message
 b) Your bank, using the number on your card
-c) Nobody; it's too late
+c) Nobody, since it's too late
 
 **Answers:** 1) a, b, and c. 2) b. 3) c. 4) b. 5) The goal is "Yes" for everyone after the lab. 6) b.
+
+## Sources
+
+- [Smishing](https://www.uspis.gov/news/scam-article/smishing), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
+- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.

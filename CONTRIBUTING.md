@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for wanting to make this better. Scams change every month, so fresh examples and corrections matter most.
+Scams change every month, so fresh examples and corrections help most.
 
 ## What helps most
 
@@ -11,7 +11,7 @@ Thanks for wanting to make this better. Scams change every month, so fresh examp
 
 ## How to write here
 
-- **Respect the room.** Nobody who falls for a scam is foolish. Scammers are professionals.
+- **Respect the room.** Scams are run by organized groups working from scripts, and they catch careful people.
 - **No fear selling.** Say what the risk is and how likely it is.
 - **Every lesson ends in an action** someone can do that day.
 - **Never include a working scam link or phone number** in an example. Use `example.com` addresses and 555 numbers.

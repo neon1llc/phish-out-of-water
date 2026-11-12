@@ -22,3 +22,9 @@ Hang up. Look up the agency's number on its official website (they end in `.gov`
 ## If it already happened
 
 Call your bank. If you shared your Social Security number, go to **IdentityTheft.gov** and place a credit freeze with all three bureaus. Report the call at **ReportFraud.ftc.gov**.
+
+## Sources
+
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
+- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
+- [IdentityTheft.gov](https://www.identitytheft.gov/), from the FTC: reporting identity theft and getting a recovery plan.

@@ -25,3 +25,8 @@ If someone calls in an emergency and asks for money, help, or secrecy, ask for t
 Ask people to write down, on the back of their [takeaway](../handouts/one-page-takeaway.md), who they'll set a word with and when. Don't ask anyone to say a word out loud.
 
 Ready, Secure, Go has a full card: [Agree on a family code word for emergencies](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/scams-and-social-engineering/scam-family-code-word.md).
+
+## Sources
+
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

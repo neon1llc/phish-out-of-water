@@ -9,7 +9,7 @@ paginate: true
 
 # Phish Out of Water
 
-### Spot the pressure. Use the pause. Lock the front door.
+### An hour on scams and safer accounts
 
 [Presenter name] · [Group] · [Date]
 
@@ -26,7 +26,7 @@ Keep your hand up if it mentioned **a package, the bank, or a problem with an ac
 ## Today
 
 1. The four pressures every scam uses
-2. The scams people actually see
+2. The scams people see most
 3. Spot the scam
 4. The pause
 5. Lock the front door: two-step sign-in, **turned on before you leave**
@@ -34,11 +34,11 @@ Keep your hand up if it mentioned **a package, the bank, or a problem with an ac
 
 ---
 
-## Scammers are professionals
+## Who sends these
 
-They send millions of messages a day. They only need a few people to act **before they think**.
+Organized groups, working from scripts, sending messages in bulk. They need only a few people to act **before they think**.
 
-Falling for one doesn't mean you're foolish. It means you were busy, worried, or kind, at the wrong moment.
+People get caught when they're busy, stressed, or trying to help.
 
 ---
 
@@ -55,7 +55,7 @@ Falling for one doesn't mean you're foolish. It means you were busy, worried, or
 
 ## One pressure: be careful. Two or more: stop.
 
-A real bank, government agency, or tech company **never** asks you to pay with gift cards or crypto, or to keep a call secret.
+No real bank, government agency, or tech company will ask you to pay with gift cards, or to keep a call secret from your family or your bank.
 
 ---
 
@@ -115,7 +115,7 @@ For each scam, name the pressure. For "can't tell yet," say how you'd check.
 
 ## The pause
 
-1. **Hang up** or close the message. You can always call back.
+1. **Hang up** or close the message. A real company will still be there when you call back.
 2. **Look up** the real number yourself: the back of your card, the official app, a bill.
 3. **Call back** on that number and ask.
 
@@ -166,7 +166,7 @@ Raise your hand when it's on, or if you're stuck.
 ## Who to tell
 
 - **At home:** a family code word, agreed in person, for any emergency call.
-- **At work:** [how to report a suspicious message here]. Reporting is always the right call, even after you clicked.
+- **At work:** [how to report a suspicious message here]. Report it, even after a click. Fast reports limit the damage.
 - **If money is gone:** call your bank first, right away. Then report it (see your card).
 
 ---
@@ -190,3 +190,16 @@ Questions?
 [Presenter name] · [contact]
 
 Material: Phish Out of Water by neon1 (neon1.tech), CC BY-SA 4.0
+
+---
+
+## Sources
+
+- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
+- [What to know about romance scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams), from the FTC: how they start and the turn to money.
+- [How to recognize and report spam text messages](https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages), from the FTC: the source for forwarding scam texts to 7726.
+- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.
+- [Marp](https://marp.app), the open-source Markdown slide tool the deck is written for.

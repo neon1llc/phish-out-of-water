@@ -15,8 +15,13 @@ Variations: "This is Apple support, someone's trying to get into your iCloud," o
 
 ## What to do
 
-Hang up. Call the number on the back of your card, or open the company's official app. If there's really a problem, they'll tell you. Never read a code to anyone, ever.
+Hang up. Call the number on the back of your card, or open the company's official app. If there's a problem, they'll tell you. Never read a code to anyone, ever.
 
 ## If it already happened
 
 Call the bank or company right away using a number you looked up. Change the account's password and check its recovery email and phone haven't been changed. If it was your phone carrier, ask them to add a PIN or port-out lock to your account.
+
+## Sources
+
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
+- [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC: warning signs and what to do after a click.

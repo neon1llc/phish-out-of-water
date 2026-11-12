@@ -23,3 +23,8 @@ Keep the conversation and payment inside the platform. Meet in a public place, i
 ## If it already happened
 
 Report the user to the platform. Contact your payment app or bank right away. Report it at **ReportFraud.ftc.gov**.
+
+## Sources
+
+- [Fake check scams](https://consumer.ftc.gov/fake-check-scams), from the FTC: overpayments and why a deposited check can still bounce.
+- [Scams](https://consumer.ftc.gov/scams), from the FTC: the index of current scam advice, including online shopping and marketplace scams.

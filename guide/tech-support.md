@@ -17,8 +17,12 @@ The "technician" asks you to install a remote access app, shows you scary-lookin
 
 ## What to do
 
-Don't call the number. Close the browser. If it won't close, force it to quit (on Windows, Ctrl+Alt+Delete and Task Manager; on a Mac, Command+Option+Escape) or restart the computer. If someone calls, hang up.
+Don't call the number. Close the browser. If it won't close, force it to quit (Ctrl+Alt+Delete and Task Manager on Windows, or Command+Option+Escape on a Mac) or restart the computer. If someone calls, hang up.
 
 ## If it already happened
 
 Disconnect the computer from the internet. Uninstall the remote access app, or have someone you trust check the computer. Change passwords from a different device, starting with email and banking. Call your bank if you paid or let them see your bank account.
+
+## Sources
+
+- [How to spot, avoid, and report tech support scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams), from the FTC: pop-ups, calls, and remote access.

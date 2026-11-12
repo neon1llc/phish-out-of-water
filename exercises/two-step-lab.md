@@ -15,7 +15,7 @@ description: "A guided hands-on activity: everyone in the room turns on two-step
 
 Menu names change from time to time. If one doesn't match, search the account's settings for "2-step," "two-step," or "two-factor."
 
-**Gmail (Google).** Open myaccount.google.com, choose **Security**, then **2-Step Verification**, and follow the prompts. Google may offer a passkey or a prompt on your phone; either is good.
+**Gmail (Google).** Open myaccount.google.com, choose **Security**, then **2-Step Verification**, and follow the prompts. Google may offer a passkey or a prompt on your phone. Either is good.
 
 **Outlook, Hotmail, or Live (Microsoft).** Open account.microsoft.com, choose **Security**, then **Manage how I sign in** or **Advanced security options**, and turn on **Two-step verification**.
 
@@ -39,8 +39,8 @@ Check the recovery phone number and recovery email. If they're out of date, the 
 
 ## Helping people who get stuck
 
-- **Forgot their password:** start the account's recovery now if there's time; otherwise note their name and follow up.
-- **No smartphone:** text message codes work on any mobile phone; some services also offer voice calls or printed backup codes.
+- **Forgot their password:** start the account's recovery now if there's time. Otherwise, note their name and follow up.
+- **No smartphone:** text message codes work on any mobile phone, and some services also offer voice calls or printed backup codes.
 - **Worried about being locked out:** show them the backup codes and recovery options, and explain they'll only be asked on a new device.
 
 ## Close
@@ -48,3 +48,8 @@ Check the recovery phone number and recovery email. If they're out of date, the 
 Ask everyone who turned it on to raise a hand, and say the count out loud. For anyone who couldn't finish, offer a follow-up time.
 
 Want more detail for later? Ready, Secure, Go has a full card: [Turn on two-step login, starting with your email](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/accounts-and-identity/acct-two-step-login.md).
+
+## Sources
+
+- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

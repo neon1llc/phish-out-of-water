@@ -19,4 +19,9 @@ Call or walk over to the person and ask, using a number you already had. Report 
 
 ## If it already happened
 
-Call the gift card company using the number on the card right away, and tell them the cards were used in a scam. Keep the cards and receipts. Tell your manager and IT, and report it at **ReportFraud.ftc.gov**.
+Call the gift card company right away, using the number on the card. Tell them the cards were used in a scam and ask for your money back. Keep the cards and receipts. Tell your manager and IT, and report it at **ReportFraud.ftc.gov**.
+
+## Sources
+
+- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.

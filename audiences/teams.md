@@ -27,3 +27,8 @@ Run the [supplier bank change](../exercises/role-plays.md#2-the-supplier-bank-ch
 ## For companies with compliance needs
 
 A Phish Out of Water session can count toward yearly security awareness training. Record attendance and the date, and keep the slides and quiz results as evidence. [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me) covers what auditors look for.
+
+## Sources
+
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
+- [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC: warning signs and what to do after a click.
