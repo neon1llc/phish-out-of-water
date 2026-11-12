@@ -28,9 +28,9 @@ People leave an hour of Phish Out of Water able to:
 ## Running one
 
 1. Read the [run sheet](session/index.md) and pick your [audience](audiences/index.md).
-2. Swap two or three examples in [spot the scam](exercises/spot-the-scam.md) for ones your group has really received, with names removed.
+2. Swap two or three examples in [spot the scam](exercises/spot-the-scam.md) for ones your group has received, with names removed.
 3. Turn the slides into a presentation (below) and print the takeaway, one per person.
-4. Follow the [facilitator script](session/facilitator-script.md). Leave the last fifteen minutes for the two-step sign-in lab. It's the part that changes the most.
+4. Follow the [facilitator script](session/facilitator-script.md). Leave the last fifteen minutes for the two-step sign-in lab. It's the step that leaves people safer even if they later miss a scam.
 
 ## The slides
 

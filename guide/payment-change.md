@@ -17,6 +17,12 @@ Call the supplier on a number you already had on file, not one in the email, and
 
 ## If it already happened
 
-Call your bank immediately and ask them to recall the wire. Speed matters; the first day or two give the best chance. Report it at **ic3.gov**. Tell the real supplier their account may be hacked.
+Call your bank immediately and ask them to recall the wire, then report it at **ic3.gov**. The FBI says reports there sometimes let it freeze stolen funds, so speed matters. Tell the real supplier their account may be hacked.
 
 Ready, Secure, Go has the full practice: [Never change payment details on the strength of an email](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/scams-and-social-engineering/scam-payment-change-verification.md).
+
+## Sources
+
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
+- [Internet Crime Complaint Center](https://www.ic3.gov/), from the FBI: where to report online fraud, and the note that fast reports sometimes let the FBI freeze stolen funds.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
