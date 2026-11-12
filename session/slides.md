@@ -201,5 +201,5 @@ Material: Phish Out of Water by neon1 (neon1.tech), CC BY-SA 4.0
 - [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
 - [What to know about romance scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams), from the FTC: how they start and the turn to money.
 - [How to recognize and report spam text messages](https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages), from the FTC: the source for forwarding scam texts to 7726.
-- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
 - [Marp](https://marp.app), the open-source Markdown slide tool the deck is written for.
