@@ -2,7 +2,7 @@
 
 Phish Out of Water releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
-## Unreleased
+## v0.1.2 - 2026-11-12
 
 ### Fixed
 - CISA retired Secure Our World and archived its pages. Sources now link CISA's Cybersecurity Awareness Month page, which carries the same four core steps, and the USPIS smishing link points at the article's current address.
