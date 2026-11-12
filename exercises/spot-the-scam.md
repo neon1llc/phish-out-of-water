@@ -76,7 +76,7 @@ For more on each type, see the [field guide](../guide/index.md).
 
 ## Sources
 
-- [Smishing](https://www.uspis.gov/news/scam-article/smishing), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
+- [Smishing: package tracking text scams](https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
 - [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC: warning signs and what to do after a click.
 - [How to spot, avoid, and report tech support scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams), from the FTC: pop-ups, calls, and remote access.
 - [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.

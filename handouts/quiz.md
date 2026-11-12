@@ -37,5 +37,5 @@ c) Nobody, since it's too late
 
 ## Sources
 
-- [Smishing](https://www.uspis.gov/news/scam-article/smishing), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
-- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.
+- [Smishing: package tracking text scams](https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.

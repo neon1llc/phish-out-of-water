@@ -28,4 +28,4 @@ If you entered card details, call your card company using the number on the card
 ## Sources
 
 - [How to recognize and report spam text messages](https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages), from the FTC: the source for forwarding scam texts to 7726.
-- [Smishing](https://www.uspis.gov/news/scam-article/smishing), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
+- [Smishing: package tracking text scams](https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.

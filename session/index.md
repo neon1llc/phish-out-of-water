@@ -51,5 +51,5 @@ Send the takeaway as a file, plus links to the [field guide](../guide/index.md).
 
 ## Sources
 
-- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
 - [Teach kits](https://github.com/neon1llc/ready-secure-go/tree/main/content/teach), in Ready, Secure, Go: longer kits for parents and teachers, small offices, and seniors' groups.
