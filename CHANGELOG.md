@@ -1,6 +1,13 @@
 # Changelog
 
-Phish Out of Water releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
+Phishing Awareness Kit releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
+
+## v0.1.3 - 2026-11-13
+
+### Changed
+- The project is now called Phishing Awareness Kit, in the README, LICENSE, NOTICE, TRADEMARK.md, attributions, slides, and handouts. The credit line in LICENSE, NOTICE, and the handouts uses the new name. Links to the other neon1 education projects use their new names and addresses.
+- The workplace notes say a session can be part of yearly awareness training, and that whoever sets a training requirement decides whether it meets it.
+- The README says the scope is stable: the repository gets accuracy and source updates, and no new modules for now.
 
 ## v0.1.2 - 2026-11-12
 
