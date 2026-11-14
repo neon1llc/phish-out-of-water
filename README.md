@@ -1,4 +1,4 @@
-# Phish Out of Water
+# Phishing awareness session kit
 
 **A security awareness session kit: slides, exercises, and a one-page takeaway.** Everything you need to run an hour on scams and safer accounts for a team, a family, a senior center, or a classroom, in plain language and without scare tactics.
 
