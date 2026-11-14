@@ -4,11 +4,13 @@
 
 From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
+**Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
+
 ---
 
 ## What a session does
 
-People leave an hour of Phish Out of Water able to:
+People leave a one-hour session able to:
 
 1. **Spot the pressure.** Every scam leans on the same few levers: hurry, fear, secrecy, and an unusual way to pay.
 2. **Use the pause.** Hang up, look up the real number, and call back. Never act from inside the message that asked.
@@ -44,9 +46,9 @@ It reads fine as a plain document on GitHub, too.
 
 ## How it fits with neon1's other guides
 
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go) is the reference: practice cards, playbooks for when something already went wrong, and teach kits for specific groups. Phish Out of Water links to its cards for anyone who wants to go deeper.
-- [Home Is Where the Smart Is](https://github.com/neon1llc/home-is-where-the-smart-is) is the household handbook for the person who looks after a family's devices and accounts.
-- [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me) is SOC 2 readiness training for companies. A Phish Out of Water session can serve as part of a company's yearly awareness training.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go) is the reference: practice cards, playbooks for when something already went wrong, and teach kits for specific groups. Phishing Awareness Kit links to its cards for anyone who wants to go deeper.
+- [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook) is the household handbook for the person who looks after a family's devices and accounts.
+- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) is SOC 2 readiness training for companies. A session from this kit can be part of a company's yearly awareness training.
 
 Want neon1 to run a session for your group? See [neon1.tech](https://neon1.tech).
 
@@ -60,10 +62,10 @@ node tools/check.mjs    # front matter on every page, and no broken links
 
 | What | License | What it means |
 |---|---|---|
-| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on Phish Out of Water by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
+| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
 | Code (`tools/`, `.github/`) | [MIT](LICENSE-CODE) | Use it for anything, keeping the copyright notice. |
-| The Phish Out of Water and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
+| The Phishing Awareness Kit and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
 
-Phish Out of Water is © 2026 neon1 LLC. Keep the [NOTICE](NOTICE) file in copies and adaptations.
+Phishing Awareness Kit is © 2026 neon1 LLC. Keep the [NOTICE](NOTICE) file in copies and adaptations.
 
 Found something wrong or outdated? See [SECURITY.md](SECURITY.md). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).

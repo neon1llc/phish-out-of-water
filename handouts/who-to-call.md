@@ -44,4 +44,4 @@ If personal details were shared, place a credit freeze with all three bureaus: *
 - [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
 - [AARP Fraud Watch Network Helpline](https://www.aarp.org/money/scams-fraud/helpline.html), from AARP: the free helpline's number and hours.
 
-*Numbers checked November 2026. Phish Out of Water by neon1 (neon1.tech), CC BY-SA 4.0.*
+*Numbers checked November 2026. Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0.*

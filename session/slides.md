@@ -1,5 +1,5 @@
 ---
-title: Phish Out of Water slides
+title: Phishing Awareness Kit slides
 description: "The deck for a one-hour session, written in Markdown for Marp. Twenty slides from the hook to the takeaway."
 marp: true
 paginate: true
@@ -7,7 +7,7 @@ paginate: true
 
 <!-- Speaker notes for each slide are in facilitator-script.md. Replace bracketed text before presenting -->
 
-# Phish Out of Water
+# Phishing Awareness Kit
 
 ### An hour on scams and safer accounts
 
@@ -189,7 +189,7 @@ Questions?
 
 [Presenter name] · [contact]
 
-Material: Phish Out of Water by neon1 (neon1.tech), CC BY-SA 4.0
+Material: Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0
 
 ---
 
