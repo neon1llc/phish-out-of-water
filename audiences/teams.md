@@ -26,7 +26,7 @@ Run the [supplier bank change](../exercises/role-plays.md#2-the-supplier-bank-ch
 
 ## For companies with compliance needs
 
-A Phish Out of Water session can count toward yearly security awareness training. Record attendance and the date, and keep the slides and quiz results as evidence. [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me) covers what auditors look for.
+A session from this kit can be part of yearly security awareness training. Whether it meets a specific requirement is for whoever sets that requirement, such as an auditor, insurer, or client, to decide. Record attendance and the date, and keep the slides and quiz results as evidence. [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) covers what auditors look for.
 
 ## Sources
 

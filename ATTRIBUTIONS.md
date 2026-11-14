@@ -1,6 +1,6 @@
 # Attributions
 
-Phish Out of Water is written in our own words, from neon1's sessions. It draws on these sources.
+Phishing Awareness Kit is written in our own words, from neon1's sessions. It draws on these sources.
 
 ## Adapted under compatible licenses
 

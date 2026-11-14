@@ -1,6 +1,6 @@
 ---
 title: The session
-description: "The run sheet for a one-hour Phish Out of Water session: objectives, timings, materials, and how to set up the room."
+description: "The run sheet for a one-hour phishing awareness session: objectives, timings, materials, and how to set up the room."
 ---
 
 **Length:** 60 minutes (a 45-minute version is below). **Group size:** 5 to 40. **Audience:** anyone. See [audiences](../audiences/index.md) to adapt.

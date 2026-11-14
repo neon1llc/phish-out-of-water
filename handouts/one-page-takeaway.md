@@ -3,7 +3,7 @@ title: One-page takeaway
 description: "The page people keep: the four pressures, the pause, two-step sign-in, and who to tell, on one printable sheet."
 ---
 
-# Phish Out of Water: keep this by the phone
+# Phishing Awareness Kit: keep this by the phone
 
 ## Spot the pressure
 
@@ -44,4 +44,4 @@ Never use a link, number, or button from the message that asked.
 - [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
 - [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
 
-*Phish Out of Water by neon1 (neon1.tech), CC BY-SA 4.0.*
+*Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0.*

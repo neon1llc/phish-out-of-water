@@ -1,6 +1,6 @@
 ---
 title: Audiences
-description: "How to adapt the one-hour Phish Out of Water session for families and seniors, workplace teams, and students."
+description: "How to adapt the one-hour phishing awareness session for families and seniors, workplace teams, and students."
 ---
 
 The core stays the same: the four pressures, the pause, two-step sign-in, and who to tell. What changes is which scams you show, the examples you pick, and the pace.

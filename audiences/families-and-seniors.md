@@ -31,7 +31,7 @@ Suggest these, with permission:
 - Place credit freezes with all three bureaus.
 - Agree on a "call me first" rule for any request for money, without making it feel like a loss of independence.
 
-[Home Is Where the Smart Is](https://github.com/neon1llc/home-is-where-the-smart-is) has a chapter on helping aging parents with technology.
+[Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook) has a chapter on helping aging parents with technology.
 
 ## Sources
 
